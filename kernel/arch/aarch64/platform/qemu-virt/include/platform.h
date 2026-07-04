@@ -1,0 +1,1 @@
+#define PLAT_UART_BASE 0x09000000
